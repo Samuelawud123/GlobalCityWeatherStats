@@ -4,6 +4,9 @@
 
 The **Global City Weather Stats** is a Java application developed as part of the CSC 143 (Programming 2) course. It is designed to manage and analyze weather data across multiple cities globally, showcasing the use of Java for handling complex data structures, file I/O operations, and statistical computations such as linear regression analysis.
 
+Reminder: 
+The city Temerpatures file must be unzipped for this code to work. Since the file has 3M lines of data, it's too big to upload it on its own
+
 ## Features
 
 - **City List Statistics:** Manages statistical data for city lists, helping in quick data retrieval and analysis.
@@ -11,6 +14,7 @@ The **Global City Weather Stats** is a Java application developed as part of the
 - **Data Analysis Tools:** Implements linear regression to analyze long-term temperature trends across different geographical locations.
 - **Interface-Driven Design:** Employs interfaces to ensure robust and flexible code structure, facilitating easy maintenance and scalability.
 - **Comprehensive Testing:** Includes detailed unit tests to verify the system's accuracy and reliability.
+  
 
 
 ## Installation and Setup
